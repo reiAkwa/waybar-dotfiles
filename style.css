@@ -6,3 +6,59 @@ window#waybar {
   background: #f0f8ff;
   color: #3b3b3b;
 }
+
+#window {
+  background: #dae2e9;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+#clock {
+  background: #dae2e9;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+#pulseaudio {
+  background: #cfb886;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+#network {
+  background: #5b7f92;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+#cpu {
+  background: #56a0d1;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+#memory {
+  background: #7fad9c;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+#battery {
+  background: #cba0e3;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+#tray {
+  background: #a8b4c0;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}

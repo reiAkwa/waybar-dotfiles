@@ -1,0 +1,8 @@
+* {
+  font-family: "IosevkaTerm Nerd Font", "Sarasa Term SC", monospace;
+}
+
+window#waybar {
+  background: #f0f8ff;
+  color: #3b3b3b;
+}

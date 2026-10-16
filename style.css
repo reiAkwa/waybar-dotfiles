@@ -1,10 +1,14 @@
 * {
   font-family: "IosevkaTerm Nerd Font", "Sarasa Term SC", monospace;
+  
+  margin-bottom: 1px;
 }
 
 window#waybar {
   background: #f0f8ff;
   color: #3b3b3b;
+
+  border-bottom: 3px solid #56a0d1;
 }
 
 #window {
@@ -26,6 +30,7 @@ window#waybar {
   padding: 10px;
   border: none;
   border-radius: 10px;
+  margin-right: 5px;
 }
 
 #network {
@@ -33,6 +38,8 @@ window#waybar {
   padding: 10px;
   border: none;
   border-radius: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 #cpu {
@@ -40,6 +47,8 @@ window#waybar {
   padding: 10px;
   border: none;
   border-radius: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 #memory {
@@ -47,6 +56,8 @@ window#waybar {
   padding: 10px;
   border: none;
   border-radius: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 #battery {
@@ -54,6 +65,8 @@ window#waybar {
   padding: 10px;
   border: none;
   border-radius: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 #tray {
@@ -61,6 +74,7 @@ window#waybar {
   padding: 10px;
   border: none;
   border-radius: 10px;
+  margin-left: 5px;
 }
 
 #custom-dnd {
@@ -68,6 +82,8 @@ window#waybar {
   padding: 10px;
   border: none;
   border-radius: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 #custom-dnd.dnd-on {

@@ -62,3 +62,15 @@ window#waybar {
   border: none;
   border-radius: 10px;
 }
+
+#custom-dnd {
+  background: #9fb8ad;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+#custom-dnd.dnd-on {
+  background: #d97b7b;
+  color: #f0f8ff;
+}

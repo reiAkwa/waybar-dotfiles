@@ -30,7 +30,6 @@ window#waybar {
   padding: 10px;
   border: none;
   border-radius: 10px;
-  margin-right: 5px;
 }
 
 #network {
@@ -38,8 +37,6 @@ window#waybar {
   padding: 10px;
   border: none;
   border-radius: 10px;
-  margin-left: 5px;
-  margin-right: 5px;
 }
 
 #cpu {
@@ -47,8 +44,6 @@ window#waybar {
   padding: 10px;
   border: none;
   border-radius: 10px;
-  margin-left: 5px;
-  margin-right: 5px;
 }
 
 #memory {
@@ -56,8 +51,6 @@ window#waybar {
   padding: 10px;
   border: none;
   border-radius: 10px;
-  margin-left: 5px;
-  margin-right: 5px;
 }
 
 #battery {
@@ -65,8 +58,6 @@ window#waybar {
   padding: 10px;
   border: none;
   border-radius: 10px;
-  margin-left: 5px;
-  margin-right: 5px;
 }
 
 #tray {
@@ -74,7 +65,6 @@ window#waybar {
   padding: 10px;
   border: none;
   border-radius: 10px;
-  margin-left: 5px;
 }
 
 #custom-dnd {
@@ -82,8 +72,6 @@ window#waybar {
   padding: 10px;
   border: none;
   border-radius: 10px;
-  margin-left: 5px;
-  margin-right: 5px;
 }
 
 #custom-dnd.dnd-on {
